@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Venu Mahajan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?q=animated%20coding%20gif%20girl&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif&imgrefurl=https%3A%2F%2Fgithub.com%2FJiyaGupta-cs&docid=ooDIjpsLxJo0nM&tbnid=Ayf1SYgO6GGXAM&vet=12ahUKEwjdoOjQjeGKAxWOha8BHXlCNssQM3oFCIEBEAA..i&w=500&h=350&hcb=2&ved=2ahUKEwjdoOjQjeGKAxWOha8BHXlCNssQM3oFCIEBEAA">
+
 - 📫 How to reach me **mahajanvenu57@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/14LthIxxof-3_M0ehZkdGZcX5m_ZQYHHT/view?usp=drive_link](https://drive.google.com/file/d/14LthIxxof-3_M0ehZkdGZcX5m_ZQYHHT/view?usp=drive_link)
